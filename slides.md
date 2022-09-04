@@ -3,14 +3,15 @@ theme: default
 highlighter: shiki
 lineNumbers: false
 info: |
-  ## Slidev Starter Template
-  Presentation slides for developers.
+  ## Praktikum PBO Pertemuan 1
+  Pengenalan dasar pemrograman Java.
 
-  Learn more at [Sli.dev](https://sli.dev)
+  Asisten Praktikum Pemrograman Berbasis Objek 2022.
+  Teknik Informatika Universitas Padjadjaran.
 drawings:
   persist: false
 css: unocss
-title: Welcome to Slidev
+title: Praktikum PBO Pertemuan 1
 colorScheme: 'dark'
 ---
 
