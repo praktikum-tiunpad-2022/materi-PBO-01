@@ -258,7 +258,7 @@ public class Test {
 # Statement dalam Java
 
 Contoh if dan loop statement :
-```java {all}
+```java {all|3-8|all}
 public class Loop{
   public static void main(String args[]){
     for(int i = 1; i <= 10; i++){
