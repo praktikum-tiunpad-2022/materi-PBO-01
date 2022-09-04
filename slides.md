@@ -11,7 +11,11 @@ info: |
 drawings:
   persist: false
 css: unocss
-title: Praktikum PBO Pertemuan 1
+title: Materi 1 - PBO
+titleTemplate: '%s'
+download: true
+# filename of the export file
+exportFilename: 'materi-pbo-01'
 colorScheme: 'dark'
 ---
 
@@ -111,6 +115,14 @@ src: ./pages/22_built In Method 2.md
 
 ---
 src: ./pages/23_Judul Exercise.md
+---
+
+---
+src: ./pages/24_Exercise1.md
+---
+
+---
+src: ./pages/25_Exercise2.md
 ---
 
 ---
