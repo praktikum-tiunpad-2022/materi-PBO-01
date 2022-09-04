@@ -17,6 +17,8 @@ jobs:
         run:  npm i -g @slidev/cli
       - name: Build
         run: slidev build --base materi-PBO-01
+      - name: copy image
+        run: cp -r img dist
       - name: Deploy pages
         uses: crazy-max/ghaction-github-pages@v2
         with:
