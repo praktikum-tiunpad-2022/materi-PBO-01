@@ -19,15 +19,9 @@ exportFilename: 'materi-pbo-01'
 colorScheme: 'dark'
 ---
 
-# Praktikum Pemrograman Berbasis Objek
+# Praktikum<br>Pemrograman<br>Berbasis Objek
 
 **Pertemuan 1**
-
-<div class="pt-12">
-  <span @click="$slidev.nav.next" class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-    Getting Started <carbon:arrow-right class="inline"/>
-  </span>
-</div>
 
 ---
 src: ./pages/2_Asisten PBO 2022.md
