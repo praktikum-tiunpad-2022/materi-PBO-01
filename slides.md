@@ -1,6 +1,5 @@
 ---
 theme: default
-title: 'Praktikum PBO Pertemuan 1'
 highlighter: shiki
 lineNumbers: false
 info: |
@@ -12,7 +11,7 @@ info: |
 drawings:
   persist: false
 css: unocss
-title: Welcome to Slidev
+title: Praktikum PBO Pertemuan 1
 ---
 
 # Praktikum Pemrograman Berbasis Objek
