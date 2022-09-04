@@ -11,7 +11,11 @@ info: |
 drawings:
   persist: false
 css: unocss
-title: Praktikum PBO Pertemuan 1
+title: Materi 1 - PBO
+titleTemplate: '%s'
+download: true
+# filename of the export file
+exportFilename: 'materi-pbo-01'
 colorScheme: 'dark'
 ---
 
@@ -65,8 +69,19 @@ src: ./pages/10_Struktur Kode Java 2.md
 src: ./pages/11_Judul Membuat Objek.md
 ---
 
----
-src: ./pages/12_Membuat Objek.md
+</div>
+
+```mermaid   {theme: 'dark', scale: 0.5}
+  pie 
+    title Penilaian
+    "Tugas" : 30
+    "Kuis" : 15
+    "UTS" : 25
+    "Project UAS" : 30
+```
+
+</div> 
+
 ---
 
 ---
@@ -111,6 +126,14 @@ src: ./pages/22_built In Method 2.md
 
 ---
 src: ./pages/23_Judul Exercise.md
+---
+
+---
+src: ./pages/24_Exercise1.md
+---
+
+---
+src: ./pages/25_Exercise2.md
 ---
 
 ---
