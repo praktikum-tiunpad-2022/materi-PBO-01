@@ -59,7 +59,7 @@ css: unocss
 
 ---
 layout: image-right
-image: ./../img/penilaian.png
+image: img/penilaian.png
 ---
 
 # Penilaian 📈
