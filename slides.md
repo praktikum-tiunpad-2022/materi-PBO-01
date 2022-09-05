@@ -104,7 +104,7 @@ src: ./pages/21_Built In Method 1.md
 ---
 
 ---
-src: ./pages/22_built In Method 2.md
+src: ./pages/22_Built In Method 2.md
 ---
 
 ---
