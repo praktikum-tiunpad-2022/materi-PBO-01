@@ -1,5 +1,5 @@
 {
-  "name": "test-slidev",
+  "name": "materi-pbo-01",
   "private": true,
   "scripts": {
     "build": "slidev build",
