@@ -12,7 +12,7 @@ public class Test {
       ferry.setCrew(30);
     }
 
-    System.out.println("The following ship has ", ferry.getCrew(), " crew.");
+    System.out.println("The following ship has " + ferry.getCrew() + " crew.");
   }
 }
 ```
