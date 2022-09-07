@@ -17,4 +17,4 @@ public class Test {
 }
 ```
 
-Instantiasi class menjadi object dilakukan dengan keyword `new` diikuti dengan class yang akan dijadikan object
+Instansiasi class menjadi object dilakukan dengan keyword `new` diikuti dengan class yang akan dijadikan object
