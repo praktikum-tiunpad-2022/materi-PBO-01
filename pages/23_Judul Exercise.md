@@ -3,5 +3,5 @@ layout: center
 class: text-center
 ---
 
-# Exercise!
+# Assigment!
 Seperti biasa akan setiap selesai praktikum pasti ada tugas
