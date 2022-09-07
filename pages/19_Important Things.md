@@ -9,4 +9,4 @@ contoh : HelloWorld.java harus memiliki class bernama HelloWorld
 
 - Dalam satu file `.java` dapat memiliki banyak class namun hanya diperbolehkan memiliki **satu** public class
 
-- Disarankan unutk class yang bersifat public untuk memiliki filenya sendiri-sendiri
+- Disarankan untuk class yang bersifat public untuk memiliki filenya sendiri-sendiri
