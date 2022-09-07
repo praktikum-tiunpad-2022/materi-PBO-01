@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Assigment 1 Soal 1 <kbd>soal1/<span class='text-teal'>Test.java</span></kbd>
+# Assignment 1 Soal 1 <kbd>soal1/<span class='text-teal'>Test.java</span></kbd>
 
 <br>
 Buatlah program sederhana yang dapat menerima input berupa string sebanyak n kali lalu gabungkan setiap input string menjadi satu string.

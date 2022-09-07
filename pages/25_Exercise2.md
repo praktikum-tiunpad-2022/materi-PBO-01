@@ -1,7 +1,7 @@
 ---
 layout: center
 ---
-# Assigment 1 Soal 2 <kbd>soal2/<span class='text-teal'>Test.java</span></kbd>
+# Assignment 1 Soal 2 <kbd>soal2/<span class='text-teal'>Test.java</span></kbd>
 
 <br>
 Buatlah class <b>Manusia</b> dengan variable nama dan npm dan method constructor, setter, dan getter, lalu buat file baru berisi class Test dengan method main yang menginstansiasi class Manusia. 
